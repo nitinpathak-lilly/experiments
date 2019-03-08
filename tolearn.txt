@@ -1,0 +1,2 @@
+1. Using profile configuration
+2. STS Tokens
